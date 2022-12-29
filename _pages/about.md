@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts.
+subtitle: Ph.D. Candidate|Researcher<a href='https://www.dit.hua.gr'>@DIT/HUA</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Niki Kiriakidou is a PhD candidate at the [Department of Informatics and Telematics](https://dit.hua.gr/index.php/en/), [Harokopio University of Athens](https://www.hua.gr/index.php/en/). She holds a Master of Science in Applied Statistics from the University of Piraeus and a Bachelor of Science in Mathematics from the University of Patras. 
-Currently, she is a research assistant at the EU-funded project REBECCA and RELEVIUM.
+Currently, she is a research assistant at the EU-funded project [REBECCA](https://rebeccaproject.eu/) and [RELEVIUM](https://www.releviumproject.eu/).
 
 Her research interests lie primarily in the field of causal inference, machine learning as well as in artificial intelligence and include the development and use of machine learning models, and more specifically of neural networks and tree-based models, for treatment effect estimation by using observational data. 
 
