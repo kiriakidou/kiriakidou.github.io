@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Candidate|Researcher<a href='https://www.dit.hua.gr'>@DIT/HUA</a>
+subtitle: Ph.D. Candidate | Researcher<a href='https://www.dit.hua.gr'>@DIT/HUA</a>
 
 profile:
   align: right
