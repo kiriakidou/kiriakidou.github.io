@@ -23,6 +23,6 @@ Currently, she is a research assistant at the EU-funded project [REBECCA](https:
 
 Her research interests lie primarily in the field of causal inference, machine learning as well as in artificial intelligence and include the development and use of machine learning models, and more specifically of neural networks and tree-based models, for treatment effect estimation by using observational data. 
 
-- Scholar profile: [https://scholar.google.com/citations?user=fCprf9AAAAAJ&hl=el](https://scholar.google.com/citations?user=fCprf9AAAAAJ&hl=el)
-- LinkedIn: [https://gr.linkedin.com/in/niki-kiriakidou](https://gr.linkedin.com/in/niki-kiriakidou)
-- ResearchGate: [https://www.researchgate.net/profile/Niki-Kiriakidou](https://www.researchgate.net/profile/Niki-Kiriakidou)
+- [Scholar profile](https://scholar.google.com/citations?user=fCprf9AAAAAJ&hl=el)
+- [LinkedIn](https://gr.linkedin.com/in/niki-kiriakidou)
+- [ResearchGate](https://www.researchgate.net/profile/Niki-Kiriakidou)
