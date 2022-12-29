@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: niki.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office number: 5.6</p>
+    <p>Omirou 9, Tavros, 17778</p>
+    <p>Athens, Greece</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Niki Kiriakidou is a PhD candidate at the [Department of Informatics and Telematics](https://dit.hua.gr/index.php/en/), [Harokopio University of Athens](https://www.hua.gr/index.php/en/). She holds a Master of Science in Applied Statistics from the University of Piraeus and a Bachelor of Science in Mathematics from the University of Patras. 
+Currently, she is a research assistant at the EU-funded project REBECCA and RELEVIUM.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Her research interests lie primarily in the field of causal inference, machine learning as well as in artificial intelligence and include the development and use of machine learning models, and more specifically of neural networks and tree-based models, for treatment effect estimation by using observational data. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- Scholar profile: [https://scholar.google.com/citations?user=fCprf9AAAAAJ&hl=el](https://scholar.google.com/citations?user=fCprf9AAAAAJ&hl=el)
+- LinkedIn: [https://gr.linkedin.com/in/niki-kiriakidou](https://gr.linkedin.com/in/niki-kiriakidou)
+- ResearchGate: [https://www.researchgate.net/profile/Niki-Kiriakidou](https://www.researchgate.net/profile/Niki-Kiriakidou)
