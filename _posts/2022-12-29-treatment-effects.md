@@ -1,22 +1,28 @@
 ---
 layout: post
-title: Treatment effects
-date: 2022-12-29 14:39:00
-description: Types of treatment effects
-tags: causal-inference machine-learning
-categories: causal-inference machine-learning
-giscus_comments: true
+title:  treatment effect
+date:   2015-03-15 16:40:16
+description: presentation of different types of treatment effects
+tags: causal-inference machine-learning math
+categories: sample-posts
 ---
 This post is about the different types of treatment effect
 
-#### Hipster list
+#### Types of treatment effect
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>Average Treatment Effects</li>
+    <li>Conditional Average Treatment Effects</li>
+    <li>Intent-to-Treat Effects</li>
+    <li>Complier Average Treatment Effects</li>
+    <li>Population and Sample Average Treatment Effects</li>
+    <li>Average Treatment Effects on the Treated and the Control</li>
+    <li>Quantile Average Treatment Effects</li>
+    <li>Mediation Effects</li>
+    <li>Log-Odds Treatment Effects</li>
+    <li>Attributable Effects</li>
 </ul>
 
+<hr>
 
 Inferring the cause of something has been described as:
 
