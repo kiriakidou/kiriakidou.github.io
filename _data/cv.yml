@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Niki Kiriakidou
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th January 1995
     - name: Languages
-      value: English, German
+      value: Greek, English, German
 
 - title: Education
   type: time_table
@@ -21,12 +21,12 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: B.Sc. in Mathematics
+      institution: University of Patras
+      year: 2018
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 - title: Experience
   type: time_table
