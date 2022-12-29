@@ -1,8 +1,7 @@
-# github_users:
-#   - torvalds
-#   - alshedivat
+github_users:
+  - diou
 
 github_repos:
   - kiriakidou/kiriakidou.github.io
   - kiriakidou/An-evaluation-framework-for-comparing-causal-inference-models
-  - https://github.com/kiriakidou/Modified_Dragonnet
+  - kiriakidou/Modified_Dragonnet
